@@ -1,16 +1,5 @@
-# nodejs-app
-[![Node.js CI](https://github.com/stelladream/nodejs-app/actions/workflows/main.yml/badge.svg)](https://github.com/stelladream/nodejs-app/actions/workflows/main.yml)
+# github-actions-nodejs
 
-
-1. create remote github repo
-create actions workflow
-
-2. do the following tasks in vs code
-npm init
-npm install chai chai-http mocha --save-dev
-create app.js, app.test.js
-
-git init
-git pull origin master
-git push origin master
-
+Node.js를 사용하여 간단한 웹 서버를 만드는 Node.js 애플리케이션입니다.
+서버는  '127.0.0.1:3000'에서 리스닝 수행하고 있으며
+클라이언트 요청시   "Hello, World!" 메시지를 응답으로 보내는 역할을 합니다
