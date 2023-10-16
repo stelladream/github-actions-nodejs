@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stelladream/nodejs-app.git"
+    "url": "git+https://github.com/stelladream/github-actions-nodejs.git"
   },
   "keywords": [
     "node.js",
@@ -19,7 +19,7 @@
   "author": "Namyun Kim",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/stelladream/nodejs-app/issues"
+    "url": "https://github.com/stelladream/github-actions-nodejs/issues"
   },
   "homepage": "https://github.com/stelladream/github-actions-nodejs#readme",
   "devDependencies": {
