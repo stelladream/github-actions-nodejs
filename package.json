@@ -17,7 +17,7 @@
     "application"
   ],
   "author": "Namyun Kim",
-  "license": "MIT",
+  "license": "GPLV3",
   "bugs": {
     "url": "https://github.com/stelladream/github-actions-nodejs/issues"
   },
